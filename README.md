@@ -5,7 +5,7 @@
 
 <!-- 🌠 ANIMATED HEADER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Rabeya%20Zaman&fontSize=70&fontAlignY=35&desc=Microbiology%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Curiosity%20without%20limits&descSize=18&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=240&section=header&text=Rabeya%20Zaman&fontSize=70&fontAlignY=35&desc=Microbiology%20%E2%80%A2%20%20%E2%80%A2%20Curiosity%20without%20limits&descSize=18&descAlignY=58&animation=twinkling&fontColor=ffffff" alt="header"/>
 </div>
 
 <!-- ⌨️ TYPING ANIMATION -->
