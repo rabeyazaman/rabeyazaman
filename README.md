@@ -39,7 +39,7 @@
 <!-- ════════ § 1 ABSTRACT ════════ -->
 <h2>📄 &nbsp;§ 1 &nbsp;Abstract</h2>
 
-> Freshman microbiology student at **Notre Dame University Bangladesh**.
+>  microbiology student at **Notre Dame University Bangladesh**.
 > Studies what the eye can't see, then asks the laptop to make sense of it.
 > Specialty interests: **microbes, machine learning, and the space between them.**
 > Findings to date: *the small things run the world.* 🌍
@@ -152,8 +152,8 @@
 ```diff
 + Next experiment:  microbiome analysis of local water sources
 + Reading list:     bioinformatics fundamentals, deep learning for microscopy
-+ Long-term:        PhD in computational microbiology
-! Current obstacle: not enough hours in the day
++ Long-term:        research 
+! Current obstacle: sleep
 # Antidote:         coffee, curiosity, community
 ```
 
