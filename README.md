@@ -11,7 +11,7 @@
 <!-- ⌨️ TYPING ANIMATION -->
 <div align="center">
   <a href="https://github.com/rabeyazaman">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&height=60&lines=Hi+there%2C+I'm+Rabeya+%F0%9F%8C%B8; Microbiology+student+%40+Notre+Dame+University+Bangladesh;Turning+curiosity+into+code+%E2%9C%A8" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=820&height=60&lines=Hi+there%2C+I'm+Rabeya+%F0%9F%8C%B8; Microbiology+student+%40+Notre+Dame+University+Bangladesh;;Turning+curiosity+into+code+%E2%9C%A8" alt="Typing SVG"/>
   </a>
 </div>
 
